@@ -1,6 +1,6 @@
 name: Pawel Trela
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
@@ -9,7 +9,8 @@ contact:
   linkedin: pawel-trela
   phone: +48 796 068 992
   gitlab: 
-  twitter: 
+  twitter:
+  location: Poznan, Poland
 
 languages:
   - idiom: Polish
@@ -20,88 +21,97 @@ education:
     time: 2015-2016
     university: Warsaw University of Life Sciences
 
-  - degree: Informatics and econometrics
-    time: 2015-2016
-    university: Warsaw University of Life Sciences
-
 skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
-
-# Profile
-profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+  - role: Ruby on Rails Developer
+    time: September 2020 - Present
+    company: Siepomaga
+    details:
+      "
+      - maintain backend of the application<br/>
+      - test2
+      "
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Ruby on Rails, Elasticsearch, MySQL, Rspec, Coffeescript, Grape API, Rossum API, Paypal API, Przelewy24 API, Redis
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+  - role: Ruby on Rails Developer
+    time: November 2019 - August 2020
+    company: Ad Awards
+    details:
+      "
+      - developing commercial Ruby on Rails applications
+      "
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Ruby on Rails, PostgreSQL, Rspec, Algolia, Otomoto API
+
+  - role: PHP Developer / Project Manager
+    time: January 2019 - October 2019
+    company: Ad Awards
+    details:
+      "
+      - managing multiple development teams<br/>
+      - managing development of many applications in different technologies (Symfony, Yii2, CakePHP, Jquery)<br/>
+      - writing clean, well working code in Symfony 4<br/>
+      - supporting development teams by adding new features to the existing applications
+      "
+    technologies_used: |
+      Symfony, MySQL, Jquery, Otomoto API
+
+  - role: Wordpress Developer / Project Manager
+    time: November 2017 - December 2018
+    company: Ad Awards
+    details:
+      "
+      - managing multiple development teams<br/>
+      - working with clients and delivering over 60 small-size websites in one year<br/>
+      - working with many freelance developers (managing their work)<br/>
+      - developing dozens of Wordpress websites (also on self-coded themes)<br/>
+      - creating front-end templates based on PSD project
+      "
+    technologies_used: |
+      Wordpress, JQuery, Bootstrap
+
+  - role: SEO Project Manager / Wordpress Developer
+    time: October 2013 - October 2017
+    company: Self-Employed
+    details:
+      "
+      - achieved top 10 on the Google Search Page for selected keywords (1000+)<br/>
+      - developing Wordpress websites<br/>
+      - developing new features on clients websites
+      "
+    technologies_used: |
+      Wordpress, JQuery, Bootstrap, multiple SEO Tools
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: February 2022 - Present
+    role: Organizer
+    company: Poznan Ruby User Group
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Helping in PRUG organization in my city. 3 editions completed and still going.
+
+  - time: December 2021 - Present
+    role: Contributor
+    company: Ruby for Good
+    details: |
+      Contributing in open source Casa Project.
+
+  - time: 2013 - 2015
+    role: Team Leader
+    company: Enactus Warsaw University of Life Sciences
+    details:
+      "
+      - managing a wallet of the CSR projects<br/>
+      - managing 55 members team<br/>
+      - Most Improved Team Award in the first year of existing<br/>
+      - Enactus Poland National Championship in the second year of existing<br/>
+      - Most Effective Business Concept Award for the Economize Project<br/>
+      - Originator and co-creator of the first edition of Enactus Starter conference
+      "
