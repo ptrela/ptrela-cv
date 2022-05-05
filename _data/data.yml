@@ -4,26 +4,21 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: paweltrelapro@gmail.com
+  github: ptrela
+  linkedin: pawel-trela
+  phone: +48 796 068 992
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Polish
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Informatics and econometrics
+    time: 2015-2016
+    university: Warsaw University of Life Sciences
 
 skills:
   - category: Backend
