@@ -30,8 +30,10 @@ experience:
     company: Siepomaga
     details:
       "
-      - maintain backend of the application<br/>
-      - test2
+      - maintaining backend side of the application<br/>
+      - main developer of many important features inside the application backend<br/>
+      - implementing Paypal API v2 into the application<br/>
+      - preparing and giving technical presentations for my team<br/>
       "
     technologies_used: | 
       Ruby on Rails, Elasticsearch, MySQL, Rspec, Coffeescript, Grape API, Rossum API, Paypal API, Przelewy24 API, Redis
@@ -41,7 +43,9 @@ experience:
     company: Ad Awards
     details:
       "
-      - developing commercial Ruby on Rails applications
+      - developing commercial Ruby on Rails applications<br/>
+      - implementing Otomoto API into the applications<br/>
+      - solving client problems and make application management easy for the non-technical people
       "
     technologies_used: | 
       Ruby on Rails, PostgreSQL, Rspec, Algolia, Otomoto API

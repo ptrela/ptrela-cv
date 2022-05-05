@@ -55,12 +55,19 @@
             </a>
         </div>
     {% endif %}
+</section>
 
-    {% if contact.location %}
+<section class="contact">
+    <div class="title">Location</div>
     <div class="contact-item">
-        <i class="fa-solid fa-location-pin"></i>
         <a href="#">{{contact.location}}</a>
     </div>
-    {% endif %}
+</section>
+
+<section class="contact">
+    <div class="title">Website</div>
+    <div class="contact-item">
+        <a href="https://ptrela.pl">ptrela.pl</a>
+    </div>
 </section>
 {% endif %}
