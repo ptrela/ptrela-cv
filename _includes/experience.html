@@ -12,7 +12,11 @@
                 <span class="time">{{exp.time}}</span>
             </div> 
             <div class="details">{{exp.details}}</div>
-            <p class="technologies"><strong>Technologies Used:</strong> {{exp.technologies_used}}</p>
+            {% if exp.technologies_used %}
+                <p class="technologies"><strong>Technologies Used:</strong> {{exp.technologies_used}}</p>
+            {% else %}
+                <p class="technologies"></p>
+            {% endif %}
         </div>
        
     {% endfor %}

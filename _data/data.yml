@@ -25,12 +25,25 @@ skills:
 
 # Experience
 experience:
+  - role: Mid / Senior Ruby on Rails Engineer
+    time: August 2022 - present
+    company: Code & Pepper (The End Client - MedTech (UK))
+    details:
+      "
+      - becoming the senior engineer as a reward after 3 months<br/>
+      - resolving complex problems and preparing solutions for them<br/>
+      - active contact as a specialist with multiple non-tech departments of the company<br/>
+      - helping in the technical on-boarding new engineers<br/>
+      "
+    technologies_used: |
+      Ruby on Rails, Docker, MySQL, GraphQL, Packwerk, RSpec, Minitest, Sidekiq, Redis  
+
   - role: Ruby on Rails Developer
-    time: September 2020 - Present
+    time: September 2020 - July 2022
     company: Siepomaga
     details:
       "
-      - maintaining backend side of the application<br/>
+      - maintaining the backend side of the application<br/>
       - main developer of many important features inside the application backend<br/>
       - implementing Paypal API v2 into the application<br/>
       - preparing and giving technical presentations for my team<br/>
@@ -95,13 +108,13 @@ projects:
 
 # Volunteering
 volunteering:
-  - time: February 2022 - Present
-    role: Organizer
+  - time: February 2022 - October 2022
+    role: Co-Organizer
     company: Poznan Ruby User Group
     details: |
-      Helping in PRUG organization in my city. 3 editions completed and still going.
+      Helping in PRUG organization in my city. 
 
-  - time: December 2021 - Present
+  - time: December 2021 - February 2022
     role: Contributor
     company: Ruby for Good
     details: |
