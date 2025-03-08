@@ -12,9 +12,9 @@
             color: var(--fg-color);
         }
         a {
-            text-decoration: none;
+            text-decoration: underline;
             padding-top: 4px;
-            padding-left: 4px;
+            padding-left: 8px;
             @include body-text;
             &:hover {
                 text-decoration: underline;
