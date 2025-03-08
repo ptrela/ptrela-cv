@@ -33,11 +33,13 @@ experience:
       <li>resolving complex problems and preparing solutions for them</li>
       <li>actively communicating as a specialist with multiple non-tech departments of the company</li>
       <li>becoming a full-stack Ruby on Rails engineer, writing also frontend code and Kotlin microservices)</li>
+      <li>specialist in multiple domains of the company (e.g., Payments, Rates, Leave Management)</li>
       <li>assisting with the technical onboarding of new engineers</li>
+      <li>being one of the few engineers with experience across the entire product range</li>
       </ul>
       '
     technologies_used: |
-      Ruby on Rails, React, Kotlin, GraphQL, Packwerk, AWS, MySQL, RSpec, Sidekiq, Redis, Microservices
+      Ruby on Rails, React, Kotlin, GraphQL, Packwerk, AWS, MySQL, RSpec, Sidekiq Pro, Redis, Microservices
 
   - role: Ruby on Rails Developer
     time: September 2020 - July 2022
@@ -64,7 +66,7 @@ experience:
       </ul>
       '
     technologies_used: |
-      Ruby on Rails, PostgreSQL, RSpec, Algolia, Otomoto API
+      Ruby on Rails, PostgreSQL, RSpec, JQuery, Bootstrap, Algolia, Otomoto API
 
   - role: PHP Developer / Project Manager
     time: January 2019 - October 2019
@@ -78,7 +80,7 @@ experience:
       </ul>
       '
     technologies_used: |
-      Symfony, MySQL, JQuery, Otomoto API
+      Symfony, MySQL, JQuery, Bootstrap, Otomoto API
 
   - role: Wordpress Developer / Project Manager
     time: November 2017 - December 2018
